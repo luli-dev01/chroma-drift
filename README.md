@@ -1,7 +1,12 @@
 # Chroma Drift
 
-An original twin-stick arena game for the make.fun **best-game-01** bounty,
-built with plain Canvas 2D and Web Audio — no engine, no assets, no network.
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/luli-dev01/chroma-drift/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/luli-dev01/chroma-drift/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+An original twin-stick arena game built for the
+[make.fun “Make the best game” bounty (best-game-01)](https://make.fun/bounty/best-game-01),
+with plain Canvas 2D and Web Audio — no engine, no assets, no network.
 
 The universe has gone grey. Pilot the last prism ship, shatter the grey
 shards, gather the spectrum orbs they drop, and restore colour across
